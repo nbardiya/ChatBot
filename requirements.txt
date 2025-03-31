@@ -1,0 +1,9 @@
+requests
+psycopg2-binary
+pgvector
+rich
+pandas
+pypdf
+PyPDF2
+pymupdf
+pdfminer.six
