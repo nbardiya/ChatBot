@@ -13,7 +13,7 @@ import subprocess
 DB_CONFIG = {
     "dbname": "chatbot",
     "user": "postgres",
-    "password": "RedHat1!",
+    "password": "<password>",
     "host": "localhost",
     "port": 5432,
 }
